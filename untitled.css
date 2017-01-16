@@ -1,0 +1,49 @@
+body{
+	background-color: tan;
+	background: blue;
+	text-align: center;
+}
+
+#main{
+	width: 1000px;
+	height: 800px;
+	background: blue;
+    margin: 25px auto; 
+    border: solid 4px #00FF66 ;
+    padding: 30px;
+}
+h1{
+	text-align: center;
+	font-family: "time new roman"
+	font: 24pt;
+	color: #ff3819;
+}
+hr{
+	height: 2px;
+	color: #ff3819;
+}
+p{
+	font-family: "calibri"
+	font: 12pt;
+	text-align: left;
+	text-indent: 96px;
+	color: #ff3819
+}
+a{
+	text-align: center;
+	font-family: "time new roman"
+	font: 24pt;
+}
+section{
+	width:95%;
+  border: #00FF63 6px solid;
+ text-align:center;
+  padding:5px;
+  background: ;
+
+}
+canvas{
+ border: #00FF63 6px solid;
+ background: white;
+ align-self: center;
+}
